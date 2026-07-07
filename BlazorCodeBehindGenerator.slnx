@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BlazorCodeBehindGenerator/BlazorCodeBehindGenerator.csproj">
+    <Deploy />
+  </Project>
+</Solution>
