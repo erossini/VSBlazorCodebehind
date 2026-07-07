@@ -5,6 +5,8 @@ component into a partial-class code-behind file — filling the gap left when VS
 the built-in "extract to code-behind" feature. (VS still has **Add `Component.razor.cs`**,
 but that only creates an *empty* code-behind; it does not move your `@code` into it.)
 
+<img width="528" height="929" alt="image" src="https://github.com/user-attachments/assets/4a1dfed1-1500-42b5-bd35-44f108d72771" />
+
 ## Usage
 
 1. In **Solution Explorer**, right-click a `.razor` file.
